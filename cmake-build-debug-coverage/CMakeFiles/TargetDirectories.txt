@@ -1,0 +1,4 @@
+/Users/ved/Documents/Classes/Spring-2021/CS-126/cinder_0.9.2_mac/my-projects/final-project-dev-ved30/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
+/Users/ved/Documents/Classes/Spring-2021/CS-126/cinder_0.9.2_mac/my-projects/final-project-dev-ved30/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
+/Users/ved/Documents/Classes/Spring-2021/CS-126/cinder_0.9.2_mac/my-projects/final-project-dev-ved30/cmake-build-debug-coverage/CMakeFiles/game-test.dir
+/Users/ved/Documents/Classes/Spring-2021/CS-126/cinder_0.9.2_mac/my-projects/final-project-dev-ved30/cmake-build-debug-coverage/CMakeFiles/game.dir
